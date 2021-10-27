@@ -1,0 +1,72 @@
+ if(isset($_POST[' name'])){
+     $name = $_POST[' name'];
+ }
+ else
+ {
+     $name = " ";
+ }
+ if(isset($_POST[' brand'])){
+     $brand = $_POST[' brand'];
+ }
+ else
+ {
+     $brand = " ";
+ }
+ if(isset($_POST[' price'])){
+     $price = $_POST[' price'];
+ }
+ else
+ {
+     $price = " ";
+ }
+ if(isset($_POST[' color'])){
+     $color = $_POST[' color'];
+ }
+ else
+ {
+     $color = " ";
+ }
+ if(isset($_POST[' sex'])){
+     $sex = $_POST[' sex'];
+ }
+ else
+ {
+     $sex = " ";
+ }
+ if(isset($_POST[' type'])){
+     $type = $_POST[' type'];
+ }
+ else
+ {
+     $type = " ";
+ }
+ if(isset($_POST[' image'])){
+     $image = $_POST[' image'];
+ }
+ else
+ {
+     $image = " ";
+ }
+ if(isset($_POST[' id_cate'])){
+     $id_cate = $_POST[' id_cate'];
+ }
+ else
+ {
+     $id_cate = " ";
+ }
+ if(isset($_POST[''])){
+     $= $_POST[''];
+ }
+ else
+ {
+     $  = " ";
+ }
+ if(isset($_POST[''])){
+     $  = $_POST[''];
+ }
+ else
+ {
+     $  = " ";
+ }
+
+
